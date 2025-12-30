@@ -74,5 +74,6 @@ The dashboard follows a minimal and professional design approach. Gridlines, piv
 - LinkedIn: https://www.linkedin.com/in/pradyumnapatil217  
 - GitHub: https://github.com/pradi7124
 
-#### Do have a look at a demo video below
+#### Do have a look at a dahboard preview below:
+![Dashboard Preview](dashboard.png)
 
