@@ -67,7 +67,12 @@ The dashboard follows a minimal and professional design approach. Gridlines, piv
 * Excel Tables  
 * Pivot Tables  
 * Pivot Charts
-
-
 * Slicers
+
+## **4\. Author**
+**Pradyumna Patil**  
+- LinkedIn: https://www.linkedin.com/in/pradyumnapatil217  
+- GitHub: https://github.com/pradi7124
+
+#### Do have a look at a demo video below
 
